@@ -1,0 +1,5 @@
+numpy
+pandas
+train-test-split
+scikit-learn
+jupyter
